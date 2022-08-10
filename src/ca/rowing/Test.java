@@ -1,2 +1,7 @@
-package ca.rowing;public class Test {
+package ca.rowing;
+
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 }
